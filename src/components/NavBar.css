@@ -1,0 +1,19 @@
+
+.navbar {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 1rem; 
+    border-radius: 10px;
+  }
+  
+  .navbar-brand h1 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    color: #333;
+    margin: 0; 
+  }
+  
+  .navbar-brand h1 span {
+    color: #ff5733;
+  }
+  

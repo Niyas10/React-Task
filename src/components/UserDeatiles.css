@@ -1,0 +1,13 @@
+.submit_button{
+    width: 100px!important;
+    display: flex;
+    justify-content: end;
+}
+.clear_submit_button{
+    width: 140px!important;
+}
+.text_label{
+    width: 300px !important;
+    height: 56px;
+    background-color: white;
+}
